@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="170.31mm" height="116.33mm" enable-background="new" version="1.1" viewBox="0 0 170.30717 116.32926" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <marker id="marker9586" overflow="visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="marker9484" overflow="visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="marker9388" overflow="visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="marker9298" overflow="visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="marker9112" overflow="visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="marker9040" overflow="visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="marker8974" overflow="visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="marker8908" overflow="visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="marker8830" overflow="visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <marker id="Arrow2Mend" overflow="visible" orient="auto">
+   <path transform="scale(-.6)" d="m8.7186 4.0337-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" fill-rule="evenodd" stroke="#000" stroke-linejoin="round" stroke-width=".625"/>
+  </marker>
+  <filter id="filter8622" color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="hue"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-14.109 -23.358)" filter="url(#filter8622)">
+  <path d="m68.39 68.229-14.596 17.779" fill="none" marker-end="url(#Arrow2Mend)" stroke="#000" stroke-miterlimit="2.6" stroke-width=".4"/>
+  <text x="99.871956" y="47.037121" fill="#000000" font-family="Calibri" font-size="6.35px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="99.871956" y="47.037121">ID: 0</tspan></text>
+  <circle cx="105.96" cy="32.84" r="9.2826" fill="#8fbc8f" stroke="#556b2f" stroke-width=".4"/>
+  <text x="101.4517" y="35.514984" fill="#000000" font-family="Calibri" font-size="8.4667px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="101.4517" y="35.514984">10</tspan></text>
+  <text x="70.482193" y="75.598831" fill="#000000" font-family="Calibri" font-size="6.35px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="70.482193" y="75.598831">ID: 1</tspan></text>
+  <circle cx="76.508" cy="61.402" r="9.2826" fill="#8fbc8f" stroke="#556b2f" stroke-width=".4"/>
+  <text x="74.366707" y="64.076698" fill="#000000" font-family="Calibri" font-size="8.4667px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="74.366707" y="64.076698">8</tspan></text>
+  <text x="126.04471" y="75.598831" fill="#000000" font-family="Calibri" font-size="6.35px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="126.04471" y="75.598831">ID: 3</tspan></text>
+  <circle cx="132.07" cy="61.402" r="9.2826" fill="#8fbc8f" stroke="#556b2f" stroke-width=".4"/>
+  <text x="127.65133" y="64.076698" fill="#000000" font-family="Calibri" font-size="8.4667px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="127.65133" y="64.076698">12</tspan></text>
+  <text x="156.12517" y="109.99467" fill="#000000" font-family="Calibri" font-size="6.35px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="156.12517" y="109.99467">ID: 6</tspan></text>
+  <circle cx="162.23" cy="95.798" r="9.2826" fill="#8fbc8f" stroke="#556b2f" stroke-width=".4"/>
+  <text x="157.81343" y="98.472565" fill="#000000" font-family="Calibri" font-size="8.4667px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="157.81343" y="98.472565">20</tspan></text>
+  <text x="125.52945" y="109.99467" fill="#000000" font-family="Calibri" font-size="6.35px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="125.52945" y="109.99467">ID: 5</tspan></text>
+  <circle id="circle8650" cx="131.54" cy="95.798" r="9.2826" fill="#8fbc8f" stroke="#556b2f" stroke-width=".4"/>
+  <text x="127.00843" y="98.472565" fill="#000000" font-family="Calibri" font-size="8.4667px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="127.00843" y="98.472565">14</tspan></text>
+  <use id="use8658" transform="translate(-25.4)" width="100%" height="100%" xlink:href="#circle8650"/>
+  <text x="42.970112" y="109.99467" fill="#000000" font-family="Calibri" font-size="6.35px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="42.970112" y="109.99467">ID: 2</tspan></text>
+  <use id="use8664" transform="translate(-57.15)" width="100%" height="100%" xlink:href="#use8658"/>
+  <use id="use8670" transform="translate(-25.4,29.633)" width="100%" height="100%" xlink:href="#use8664"/>
+  <text x="21.468571" y="128.10591" fill="#000000" font-family="Calibri" font-size="8.4667px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="21.468571" y="128.10591">4</tspan></text>
+  <text x="89.490295" y="139.62801" fill="#000000" font-family="Calibri" font-size="6.35px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" writing-mode="lr" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan>ID: 7</tspan></text>
+  <use transform="translate(71.967)" width="100%" height="100%" xlink:href="#use8670"/>
+  <text x="142.43814" y="139.62801" fill="#000000" font-family="Calibri" font-size="6.35px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="142.43814" y="139.62801">ID: 9</tspan></text>
+  <use transform="translate(124.88)" width="100%" height="100%" xlink:href="#use8670"/>
+  <text x="167.23318" y="139.62801" fill="#000000" font-family="Calibri" font-size="6.35px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="167.23318" y="139.62801">ID: 10</tspan></text>
+  <use transform="translate(151.34)" width="100%" height="100%" xlink:href="#use8670"/>
+  <g fill="#000000" font-family="Calibri" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px">
+   <text x="52.121128" y="109.34244" font-size="4.2333px" style="line-height:125%" xml:space="preserve"><tspan x="52.121128" y="113.04661" stroke-width=".26458px"/></text>
+   <text x="100.03487" y="109.99467" font-size="6.35px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="100.03487" y="109.99467">ID: 4</tspan></text>
+   <text x="15.953145" y="139.62801" font-size="6.35px" writing-mode="lr" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan>ID: 8</tspan></text>
+  </g>
+  <g font-family="Calibri" font-size="8.4667px" letter-spacing="0px" stroke-width=".26458px" word-spacing="0px">
+   <text x="144.06802" y="129.15622" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="144.06802" y="129.15622">15</tspan></text>
+   <text x="172.73415" y="128.00917" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="172.73415" y="128.00917">6</tspan></text>
+   <text x="104.03515" y="98.185799" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="104.03515" y="98.185799">5</tspan></text>
+   <text x="46.891319" y="97.914749" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="46.891319" y="97.914749">9</tspan></text>
+   <text x="93.412537" y="127.43564" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:125%" xml:space="preserve"><tspan x="93.412537" y="127.43564">8</tspan></text>
+  </g>
+  <g fill="none" stroke="#000" stroke-miterlimit="2.6" stroke-width=".4">
+   <path d="m97.64 40.233-14.022 13.191" marker-end="url(#marker8830)"/>
+   <path d="m132.91 71.244-.83124 14.051" marker-end="url(#marker8908)"/>
+   <path d="m123.16 68.418-14.309 16.346" marker-end="url(#marker8974)"/>
+   <path d="m140.65 68.019 17.808 17.206" marker-end="url(#marker9040)"/>
+   <path d="m40.695 102.58-11.155 13.765" marker-end="url(#marker9112)"/>
+   <path d="m112.96 39.878 12.073 13.765" marker-end="url(#marker9298)"/>
+   <path d="m99.195 103.54-3.4121 12.044" marker-end="url(#marker9388)"/>
+   <path d="m154.83 102.87-4.8459 12.044" marker-end="url(#marker9484)"/>
+   <path d="m169.45 101.72 3.4702 13.478" marker-end="url(#marker9586)"/>
+  </g>
+ </g>
+</svg>
